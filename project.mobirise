@@ -57,18 +57,23 @@
     "siteUrl": "",
     "versionFirst": "4.7.7",
     "uniqCompNum": 13,
-    "versionPublish": "4.8.5",
+    "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
-    "sitemapSwitcherAuto": "on"
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "on",
+    "witsec-white-label": "on",
+    "seo-meta": "",
+    "witsec-language": "nl",
+    "global-footer": "",
+    "witsec-form-subject": "Mobirise Form"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Holyshitshoes - linktree",
+        "meta_descr": "Holyshitshoes - linktree -indebio -instagram - facebook - website",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
